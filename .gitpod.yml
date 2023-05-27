@@ -5,12 +5,8 @@ tasks:
 
 
 
-vscode:
-  extensions:
-    - dbaeumer.vscode-eslintintroduction/learn-gitpod/gitpod-yaml)
-    - esbenp.prettier-vscode# and commit this file to your remote git repository to share the goodness with others.
+#vscode:
+  #extensions:
+   # - dbaeumer.vscode-eslintintroduction/learn-gitpod/gitpod-yaml)
+  #  - esbenp.prettier-vscode# and commit this file to your remote git repository to share the goodness with others.
 # Learn more from ready-to-use templates: https://www.gitpod.io/docs/introduction/getting-started/quickstart
-tasks:
-  - init: npm install && npm run build
-    command: npm run start
-
